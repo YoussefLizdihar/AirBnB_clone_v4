@@ -160,9 +160,5 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
-## Authors(for v4):
-- Fredrick Kyeki [Github](https://github.com/FREDRICKKYEKI)
-- Lennox Namasaka [Github](https://github.com/NamasakaLennox/)
-
 ## License
 Public Domain. No copy write protection. 
